@@ -1,0 +1,10 @@
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\Duck.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\FlyBehavior.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\FlyNoWay.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\FlyWithWings.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\MallardDuck.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\MiniDuckSimulator.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\MuteQuack.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\Quack.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\QuackBehavior.java
+C:\Users\Nathaniel\Documents\Programming\DesignPatternsLearning\DuckExercise\Squeak.java
